@@ -4,6 +4,7 @@
 This is a vote counting software for a specific educational institution, which provides various functions depending on the role that is provided to the workers and administrators of the system. Ideal for having controlled management of the vote count for student elections, institution events, etc. 
 
 
+![login](https://github.com/rallyce/Sistema_Votacion_JuanJoseNieto/assets/146679378/01e48ede-9ea9-4259-9e88-12d337d7b58a)
 
 
 
