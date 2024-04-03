@@ -1,6 +1,10 @@
 
 # VOTE COUNTING SYSTEM: JUAN JOSE NIETO INSTITUTION
 
+<p align="center">
+    <img src="https://github.com/rallyce/Sistema_Votacion_JuanJoseNieto/assets/146679378/6db4be99-fe83-4a7c-92c9-91d76850eb8e" width="200">
+</p>
+
 This is a vote counting software for a specific educational institution, which provides various functions depending on the role that is provided to the workers and administrators of the system. Ideal for having controlled management of the vote count for student elections, institution events, etc. 
 
 
